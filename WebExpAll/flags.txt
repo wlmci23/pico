@@ -1,0 +1,33 @@
+
+Insp3ct0r
+picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?2e7b23e3}
+
+where are the robots
+picoCTF{ca1cu1at1ng_Mach1n3s_1bb4c}
+
+dont-use-client-side
+picoCTF{no_clients_plz_b706c5}
+
+Logon
+picoCTF{th3_c0nsp1r4cy_l1v3s_0c98aacc}
+
+Web Gauntlet
+picoCTF{y0u_m4d3_1t_d846125f7bdbf4d6e89cbc5edb6fa739}
+
+Irish-Name-Repo 1
+picoCTF{s0m3_SQL_c218b685}
+
+Irish-Name-Repo 2
+picoCTF{m0R3_SQL_plz_fa983901}
+
+Irish-Name-Repo 3
+picoCTF{3v3n_m0r3_SQL_06a9db19}
+
+JaWT Scratchpad
+picoCTF{jawt_was_just_what_you_thought_1ca14548}
+
+picobrowser
+picoCTF{p1c0_s3cr3t_ag3nt_84f9c865}
+
+client-side-again
+picoCTF{not_this_again_ef49bf}  
